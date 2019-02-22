@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+D:\ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\767198929.index
+\ExemploWs\src
+D:\ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2774211599.index
+\ExemploWs\src
+D:\ws\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\122278457.index
+\ExemploWs\src
